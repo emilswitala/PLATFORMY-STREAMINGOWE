@@ -34,6 +34,6 @@
         <name>cda premium</name>
         <price>19,90</price>
         <selection>9500+</selection>
-        <originals>no</originals>
+        <originals>nope</originals>
     </platform>
 </platforms>
