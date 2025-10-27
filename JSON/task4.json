@@ -1,0 +1,10 @@
+{
+    "name": "Twitch",
+    "typeOfSite": "broadcasting website",
+    "launchDate": 2011,
+    "IPv6Support": false,
+    "founders": ["Justin Kan","Emmett Shear","Kevin Lin"],
+    "CEO": "Dan Clancy",
+    "averageConcurrentUsersInMillions": 1.4,
+    "AreaServed": "worldwide"
+    }
