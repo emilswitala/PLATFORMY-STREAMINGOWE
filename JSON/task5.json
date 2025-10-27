@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Netflix",
+        "parent": "Netflix, Inc.",
+        "launch": 2007,
+        "country_of_origin": "United States",
+        "areas_served": "worldwide"
+    },
+    {
+        "name": "JioHotstar",
+        "parent": "JioStar",
+        "launch": 2025,
+        "country_of_origin": "India",
+        "areas_served": "India"
+    },
+    {
+        "name": "Disney+",
+        "parent": "The Walt Disney Company",
+        "launch": 2019,
+        "country_of_origin": "United States",
+        "areas_served": "worldwide"
+    },
+    {
+        "name": "Amazon Prime Video",
+        "parent": "Amazon.com, Inc.",
+        "launch": 2006,
+        "country_of_origin": "United States",
+        "areas_served": "worldwide"
+    },
+    {
+        "name": "iQIYI",
+        "parent": "Baidu, Inc.",
+        "launch": 2010,
+        "country_of_origin": "China",
+        "areas_served": "worldwide"
+    },
+    {
+        "name": "Youtube Premium",
+        "parent": "Google (Alphabet)",
+        "launch": 2014,
+        "country_of_origin": "United States",
+        "areas_served": "120 countries"
+    }
+  ]
