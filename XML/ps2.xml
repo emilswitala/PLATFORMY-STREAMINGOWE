@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platforms>
+    <platform>
+        <name online="yes" safe="yes">Netflix</name>
+        <price currency="PLN" subscribtion="monthly">43</price>
+        <selection polish="yes" sportlive="no">4700+</selection>
+        <originals awarded="yes" collaborations="yes">yes</originals>
+    </platform>
+        <platform>
+        <name online="yes" safe="yes">player.pl</name>
+        <price currency="PLN" subscribtion="monthly">15</price>
+        <selection polish="yes" sportlive="yes">2000+</selection>
+        <originals awarded="yes" collaborations="yes">yes</originals>
+    </platform>
+        <platform>
+        <name online="yes" safe="yes">Prime Video</name>
+        <price currency="PLN" subscribtion="monthly">25,99</price>
+        <selection polish="yes" sportlive="no">1000+</selection>
+        <originals awarded="yes" collaborations="yes">yes</originals>
+    </platform>
+        <platform>
+        <name online="yes" safe="yes">viaplay</name>
+        <price currency="PLN" subscribtion="monthly">34</price>
+        <selection polish="yes" sportlive="yes">b/d</selection>
+        <originals awarded="yes" collaborations="yes">yes</originals>
+    </platform>
+        <platform>
+        <name online="yes" safe="yes">HBO GO</name>
+        <price currency="PLN" subscribtion="monthly">24,90</price>
+        <selection polish="yes" sportlive="no">1500+</selection>
+        <originals awarded="yes" collaborations="yes">yes</originals>
+    </platform>
+        <platform>
+        <name online="yes" safe="yes">cda premium</name>
+        <price currency="PLN" subscribtion="monthly">19,90</price>
+        <selection polish="yes" sportlive="no">9500+</selection>
+        <originals awarded="yes" collaborations="yes">no</originals>
+    </platform>
+</platforms>

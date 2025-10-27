@@ -3,4 +3,42 @@
     <platform>
         <name>Netflix</name>
         <price>43</price>
-        <selection>4700+
+        <selection>4700+<?xml version="1.0" encoding="UTF-8"?>
+<platforms>
+    <platform>
+        <name>Netflix</name>
+        <price>43</price>
+        <selection>4700+</selection>
+        <originals>yes</originals>
+    </platform>
+        <platform>
+        <name>player.pl</name>
+        <price>15</price>
+        <selection>2000+</selection>
+        <originals>yes</originals>
+    </platform>
+        <platform>
+        <name>Prime Video</name>
+        <price>25,99</price>
+        <selection>1000+</selection>
+        <originals>yes</originals>
+    </platform>
+        <platform>
+        <name>viaplay</name>
+        <price>34</price>
+        <selection>b/d</selection>
+        <originals>yes</originals>
+    </platform>
+        <platform>
+        <name>HBO GO</name>
+        <price>24,90</price>
+        <selection>1500+</selection>
+        <originals>yes</originals>
+    </platform>
+        <platform>
+        <name>cda premium</name>
+        <price>19,90</price>
+        <selection>9500+</selection>
+        <originals>nope</originals>
+    </platform>
+</platforms>
